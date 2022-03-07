@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-
-- 🌱 I’m currently learning Computer Science in Bar-Ilan University
+- 🌱 I’m a 2nd year Computer Science student at Bar-Ilan University
 - 🔭 I’m currently looking for a student position as a Softwere Developer
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: www.linkedin.com/in/ofri-zangi , ofrizangi@gmail.com 
+- ⚡ Fun fact: I 
 -->
